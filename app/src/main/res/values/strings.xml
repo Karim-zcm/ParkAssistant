@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ParkAssistant</string>
+    <string name="Mail_Placeholder" color="#EEF1EF">E-Mail</string>
 </resources>
