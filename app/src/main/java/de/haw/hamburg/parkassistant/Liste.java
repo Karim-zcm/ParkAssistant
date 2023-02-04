@@ -42,4 +42,4 @@ public class Liste extends AppCompatActivity {
 // Ein Button wird verwendet, um eine neue Eingabe hinzuzufügen.
 // Wenn der Benutzer auf den Button klickt, wird die Methode addToList aufgerufen,
 // die die Eingabe aus einem EditText liest und zur Liste hinzufügt.
-//
+//kaka
